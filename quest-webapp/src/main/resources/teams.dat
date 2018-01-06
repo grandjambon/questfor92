@@ -2,59 +2,74 @@ Division|1|PremLeague|Premier League
 Team|Arsenal|Arsenal
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2007-04-17|Arsenal 3-1 Man City
 Team|Bournemouth|Bournemouth
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2017-02-13|Bournemouth 0-2 Man City
 Team|Brighton|Brighton & Hove Albion
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2017-08-13|Brighton 0-2 Man City
 Team|Burnley|Burnley
 Team|Chelsea|Chelsea
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2002-01-30|Chelsea 2-0 Leeds
 Team|CrystalPalace|Crystal Palace
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2001-12-08|Crystal Palace 2-1 Man City
 Team|Everton|Everton
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1993-08-17|Everton 1-0 Man City
 Team|Huddersfield|Huddersfield
 Team|Leicester|Leicester City
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2004-04-24|Leicester 1-1 Man City
 Team|Liverpool|Liverpool
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1982-10-16|Liverpool 0-0 Man United
 Team|ManCity|Manchester City
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2003-08-23|Man City 1-1 Portsmouth
 Team|ManUnited|Manchester United
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1996-02-18|Man United 2-1 Man City
 Team|Newcastle|Newcastle United
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1994-01-01|Newcastle 2-0 Man City
 Team|Southampton|Southampton
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2002-10-05|Southampton 2-0 Man City
 Team|Stoke|Stoke City
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1998-05-03|Stoke 2-5 Man City
 Team|Swansea|Swansea City
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2017-12-13|Swansea 0-4 Man City
 Team|Tottenham|Tottenham Hotspur
-    Data|92Club=Y
-    Data|City=Y
 Team|Watford|Watford
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|2002-01-20|Watford 1-2 Man City
 Team|WestBrom|West Bromwich Albion
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|1999-12-26|West Brom 0-2 Man City
 Team|WestHam|West Ham United
     Data|92Club=Y
     Data|City=Y
+    Data|Visit|West Ham 3-0 NK Domzale
 Division|2|Championship|Championship
 Team|AstonVilla|Aston Villa
     Data|92Club=Y
