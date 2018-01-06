@@ -1,48 +1,197 @@
 Division|1|PremLeague
-Arsenal
-Bournemouth
-Brighton
-Burnley
-Chelsea
-CrystalPalace
-Everton
-Huddersfield
-Leicester
-Liverpool
-ManCity
-ManUnited
-Newcastle
-Southampton
-Stoke
-Swansea
-Tottenham
-Watford
-WestBrom
-WestHam
+Team|Arsenal
+    Data|92Club=Y
+    Data|City=Y
+Team|Bournemouth
+    Data|92Club=Y
+    Data|City=Y
+Team|Brighton
+    Data|92Club=Y
+    Data|City=Y
+Team|Burnley
+Team|Chelsea
+    Data|92Club=Y
+    Data|City=Y
+Team|CrystalPalace
+    Data|92Club=Y
+    Data|City=Y
+Team|Everton
+    Data|92Club=Y
+    Data|City=Y
+Team|Huddersfield
+Team|Leicester
+    Data|92Club=Y
+    Data|City=Y
+Team|Liverpool
+    Data|92Club=Y
+    Data|City=Y
+Team|ManCity
+    Data|92Club=Y
+    Data|City=Y
+Team|ManUnited
+    Data|92Club=Y
+    Data|City=Y
+Team|Newcastle
+    Data|92Club=Y
+    Data|City=Y
+Team|Southampton
+    Data|92Club=Y
+    Data|City=Y
+Team|Stoke
+    Data|92Club=Y
+    Data|City=Y
+Team|Swansea
+    Data|92Club=Y
+    Data|City=Y
+Team|Tottenham
+    Data|92Club=Y
+    Data|City=Y
+Team|Watford
+    Data|92Club=Y
+    Data|City=Y
+Team|WestBrom
+    Data|92Club=Y
+    Data|City=Y
+Team|WestHam
+    Data|92Club=Y
+    Data|City=Y
 Division|2|Championship
-AstonVilla
-Barnsley
-Birmingham
-Bolton
-Brentford
-BristolCity
-Burton
-Cardiff
-Derby
-Fulham
-Hull
-Ipswich
-Leeds
-Middlesbrough
-Millwall
-Norwich
-NottinghamForest
-Preston
-QueensParkRangers
-Reading
-SheffieldUnited
-SheffieldWednesday
-Sunderland
-Wolves
+Team|AstonVilla
+    Data|92Club=Y
+    Data|City=Y
+Team|Barnsley
+Team|Birmingham
+    Data|92Club=Y
+    Data|City=Y
+Team|Bolton
+    Data|92Club=Y
+    Data|City=Y
+Team|Brentford
+    Data|92Club=Y
+Team|BristolCity
+    Data|92Club=Y
+    Data|City=Y
+Team|Burton
+Team|Cardiff
+Team|Derby
+    Data|92Club=Y
+Team|Fulham
+    Data|92Club=Y
+    Data|City=Y
+Team|Hull
+    Data|92Club=Y
+    Data|City=Y
+Team|Ipswich
+    Data|92Club=Y
+    Data|City=Y
+Team|Leeds
+    Data|92Club=Y
+    Data|City=Y
+Team|Middlesbrough
+    Data|92Club=Y
+    Data|City=Y
+Team|Millwall
+    Data|92Club=Y
+Team|Norwich
+    Data|92Club=Y
+    Data|City=Y
+Team|NottinghamForest
+    Data|92Club=Y
+    Data|City=Y
+Team|Preston
+Team|QueensParkRangers
+    Data|92Club=Y
+    Data|City=Y
+Team|Reading
+    Data|92Club=Y
+    Data|City=Y
+Team|SheffieldUnited
+    Data|92Club=Y
+    Data|City=Y
+Team|SheffieldWednesday
+Team|Sunderland
+    Data|92Club=Y
+    Data|City=Y
+Team|Wolves
+    Data|92Club=Y
+    Data|City=Y
 Division|3|LeagueOne
+Team|AFCWimbledon
+    Data|92Club=Y
+Team|BlackburnRovers
+    Data|92Club=Y
+    Data|City=Y
+Team|Blackpool
+    Data|92Club=Y
+Team|BradfordCity
+Team|BristolRovers
+Team|Bury
+Team|CharltonAthletic
+    Data|92Club=Y
+    Data|City=Y
+Team|DoncasterRovers
+Team|FleetwoodTown
+Team|Gillingham
+    Data|92Club=Y
+Team|MKDons
+    Data|92Club=Y
+Team|NorthamptonTown
+    Data|92Club=Y
+Team|OldhamAthletic
+Team|OxfordUnited
+    Data|92Club=Y
+Team|PeterboroughUnited
+    Data|92Club=Y
+Team|PlymouthArgyle
+    Data|92Club=Y
+Team|Portsmouth
+    Data|92Club=Y
+    Data|City=Y
+Team|Rochdale
+Team|RotherhamUnited
+Team|ScunthorpeUnited
+    Data|92Club=Y
+Team|ShrewsburyTown
+Team|SouthendUnited
+    Data|92Club=Y
+Team|Walsall
+Team|WiganAthletic
+    Data|92Club=Y
+    Data|City=Y
 Division|4|LeagueTwo
+Team|AccringtonStanley
+Team|Barnet
+Team|CambridgeUnited
+    NonLeagueSinceAttended=Y
+Team|CarlisleUnited
+Team|CheltenhamTown
+    NonLeagueSinceAttended=Y
+Team|Chesterfield
+Team|ColchesterUnited
+    Data|92Club=Y
+Team|CoventryCity
+    Data|92Club=Y
+Team|CrawleyTown
+    Data|92Club=Y
+Team|CreweAlexandra
+    Data|92Club=Y
+Team|ExeterCity
+Team|ForestGreenRovers
+    Data|92Club=Y
+Team|GrimsbyTown
+Team|LincolnCity
+Team|LutonTown
+    Data|92Club=Y
+Team|MansfieldTown
+Team|Morecambe
+Team|NewportCounty
+Team|NottsCounty
+Team|PortVale
+Team|Stevenage
+    Data|92Club=Y
+Team|SwindonTown
+    Data|92Club=Y
+Team|WycombeWanderers
+    Data|92Club=Y
+Team|YeovilTown
+    Data|92Club=Y
