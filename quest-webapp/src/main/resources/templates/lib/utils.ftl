@@ -4,7 +4,7 @@
         <head>
             <link rel="stylesheet" type="text/css" href="<@spring.url '/quest.css'/>"/>
         </head>
-        <body>
+        <body bgcolor="#efefef">
             <div class="flex-container"/>
                 <header><p class="monospace">Quest For 92</a></header>
                 <article class="article">

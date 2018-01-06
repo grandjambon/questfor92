@@ -2,7 +2,6 @@ package com.pj.quest.data;
 
 import com.pj.quest.data.model.Division;
 import com.pj.quest.data.model.Team;
-import org.apache.tomcat.util.http.fileupload.FileUtils;
 
 import javax.annotation.PostConstruct;
 import java.io.BufferedReader;
@@ -11,10 +10,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Collection;
 import java.util.Comparator;
-import java.util.List;
 import java.util.TreeSet;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 @SuppressWarnings("unused")
 public class QuestDataManager {
@@ -35,12 +31,16 @@ public class QuestDataManager {
             String[] parts = s.trim().split("\\|");
             if (parts[0].equals("Division")){
                 int level = Integer.parseInt(parts[1]);
-                String name = parts[2];
+                // do something with id
+                String id = parts[2];
+                String name = parts[3];
                 d = new Division(level, name);
                 divisions.add(d);
             }
             else if (parts[0].equals("Team")) {
-                String name = parts[1];
+                // do something with id
+                String id = parts[1];
+                String name = parts[2];
                 t = new Team(name);
                 d.addTeam(t);
             }
@@ -61,14 +61,10 @@ public class QuestDataManager {
         return divisions;
     }
 
-    public int get92ClubTotal() {
+    public int getNinetyTwoClubTotal() {
         int total = 0;
         for (Division d : divisions) {
-            for (Team t : d.getTeams()) {
-                if (t.getVisited92Club()) {
-                    total++;
-                }
-            }
+            total+=d.getNinetyTwoClubTotal();
         }
         return total;
     }

@@ -16,7 +16,7 @@ public class QuestController {
     @RequestMapping("/")
     public String home(ModelMap model) {
 
-        model.addAttribute("ninetyTwoClubTotal", dataManager.get92ClubTotal());
+        model.addAttribute("ninetyTwoClubTotal", dataManager.getNinetyTwoClubTotal());
         model.addAttribute("divisions", dataManager.getDivisions());
         return "home";
     }

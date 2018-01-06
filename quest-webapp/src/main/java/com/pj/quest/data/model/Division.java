@@ -31,4 +31,9 @@ public class Division {
     public Collection<Team> getTeams() {
         return teams;
     }
+
+    public int getNinetyTwoClubTotal() {
+        return (int)teams.stream().filter(Team::getVisited92Club).count();
+    }
+
 }

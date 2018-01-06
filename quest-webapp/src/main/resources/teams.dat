@@ -1,197 +1,197 @@
-Division|1|PremLeague
-Team|Arsenal
+Division|1|PremLeague|Premier League
+Team|Arsenal|Arsenal
     Data|92Club=Y
     Data|City=Y
-Team|Bournemouth
+Team|Bournemouth|Bournemouth
     Data|92Club=Y
     Data|City=Y
-Team|Brighton
+Team|Brighton|Brighton & Hove Albion
     Data|92Club=Y
     Data|City=Y
-Team|Burnley
-Team|Chelsea
+Team|Burnley|Burnley
+Team|Chelsea|Chelsea
     Data|92Club=Y
     Data|City=Y
-Team|CrystalPalace
+Team|CrystalPalace|Crystal Palace
     Data|92Club=Y
     Data|City=Y
-Team|Everton
+Team|Everton|Everton
     Data|92Club=Y
     Data|City=Y
-Team|Huddersfield
-Team|Leicester
+Team|Huddersfield|Huddersfield
+Team|Leicester|Leicester City
     Data|92Club=Y
     Data|City=Y
-Team|Liverpool
+Team|Liverpool|Liverpool
     Data|92Club=Y
     Data|City=Y
-Team|ManCity
+Team|ManCity|Manchester City
     Data|92Club=Y
     Data|City=Y
-Team|ManUnited
+Team|ManUnited|Manchester United
     Data|92Club=Y
     Data|City=Y
-Team|Newcastle
+Team|Newcastle|Newcastle United
     Data|92Club=Y
     Data|City=Y
-Team|Southampton
+Team|Southampton|Southampton
     Data|92Club=Y
     Data|City=Y
-Team|Stoke
+Team|Stoke|Stoke City
     Data|92Club=Y
     Data|City=Y
-Team|Swansea
+Team|Swansea|Swansea City
     Data|92Club=Y
     Data|City=Y
-Team|Tottenham
+Team|Tottenham|Tottenham Hotspur
     Data|92Club=Y
     Data|City=Y
-Team|Watford
+Team|Watford|Watford
     Data|92Club=Y
     Data|City=Y
-Team|WestBrom
+Team|WestBrom|West Bromwich Albion
     Data|92Club=Y
     Data|City=Y
-Team|WestHam
+Team|WestHam|West Ham United
     Data|92Club=Y
     Data|City=Y
-Division|2|Championship
-Team|AstonVilla
+Division|2|Championship|Championship
+Team|AstonVilla|Aston Villa
     Data|92Club=Y
     Data|City=Y
-Team|Barnsley
-Team|Birmingham
+Team|Barnsley|Barnsley
+Team|Birmingham|Birmingham City
     Data|92Club=Y
     Data|City=Y
-Team|Bolton
+Team|Bolton|Bolton Wanderers
     Data|92Club=Y
     Data|City=Y
-Team|Brentford
+Team|Brentford|Brentford
     Data|92Club=Y
-Team|BristolCity
-    Data|92Club=Y
-    Data|City=Y
-Team|Burton
-Team|Cardiff
-Team|Derby
-    Data|92Club=Y
-Team|Fulham
+Team|BristolCity|Bristol City
     Data|92Club=Y
     Data|City=Y
-Team|Hull
+Team|Burton|Burton Albion
+Team|Cardiff|Cardiff City
+Team|Derby|Derby County
+    Data|92Club=Y
+Team|Fulham|Fulham
     Data|92Club=Y
     Data|City=Y
-Team|Ipswich
+Team|Hull|Hull City
     Data|92Club=Y
     Data|City=Y
-Team|Leeds
+Team|Ipswich|Ipswich Town
     Data|92Club=Y
     Data|City=Y
-Team|Middlesbrough
+Team|Leeds|Leeds United
     Data|92Club=Y
     Data|City=Y
-Team|Millwall
-    Data|92Club=Y
-Team|Norwich
+Team|Middlesbrough|Middlesbrough
     Data|92Club=Y
     Data|City=Y
-Team|NottinghamForest
+Team|Millwall|Millwall
+    Data|92Club=Y
+Team|Norwich|Norwich City
     Data|92Club=Y
     Data|City=Y
-Team|Preston
-Team|QueensParkRangers
+Team|NottinghamForest|Nottingham Forest
     Data|92Club=Y
     Data|City=Y
-Team|Reading
+Team|Preston|Preston North End
+Team|QueensParkRangers|Queens Park Rangers
     Data|92Club=Y
     Data|City=Y
-Team|SheffieldUnited
+Team|Reading|Reading
     Data|92Club=Y
     Data|City=Y
-Team|SheffieldWednesday
-Team|Sunderland
+Team|SheffieldUnited|Sheffield United
     Data|92Club=Y
     Data|City=Y
-Team|Wolves
+Team|SheffieldWednesday|Sheffield Wednesday
+Team|Sunderland|Sunderland
     Data|92Club=Y
     Data|City=Y
-Division|3|LeagueOne
-Team|AFCWimbledon
-    Data|92Club=Y
-Team|BlackburnRovers
+Team|Wolves|Wolverhampton Wanderers
     Data|92Club=Y
     Data|City=Y
-Team|Blackpool
+Division|3|LeagueOne|League One
+Team|AFCWimbledon|AFC Wimbledon
     Data|92Club=Y
-Team|BradfordCity
-Team|BristolRovers
-Team|Bury
-Team|CharltonAthletic
+Team|BlackburnRovers|Blackburn Rovers
     Data|92Club=Y
     Data|City=Y
-Team|DoncasterRovers
-Team|FleetwoodTown
-Team|Gillingham
+Team|Blackpool|Blackpool
     Data|92Club=Y
-Team|MKDons
-    Data|92Club=Y
-Team|NorthamptonTown
-    Data|92Club=Y
-Team|OldhamAthletic
-Team|OxfordUnited
-    Data|92Club=Y
-Team|PeterboroughUnited
-    Data|92Club=Y
-Team|PlymouthArgyle
-    Data|92Club=Y
-Team|Portsmouth
+Team|BradfordCity|Bradford City
+Team|BristolRovers|Bristol Rovers
+Team|Bury|Bury
+Team|CharltonAthletic|Charlton Athletic
     Data|92Club=Y
     Data|City=Y
-Team|Rochdale
-Team|RotherhamUnited
-Team|ScunthorpeUnited
+Team|DoncasterRovers|Doncaster Rovers
+Team|FleetwoodTown|Fleetwood Town
+Team|Gillingham|Gillingham
     Data|92Club=Y
-Team|ShrewsburyTown
-Team|SouthendUnited
+Team|MKDons|Milton Keynes Dons
     Data|92Club=Y
-Team|Walsall
-Team|WiganAthletic
+Team|NorthamptonTown|Northampton Town
+    Data|92Club=Y
+Team|OldhamAthletic|Oldham Athletic
+Team|OxfordUnited|Oxford United
+    Data|92Club=Y
+Team|PeterboroughUnited|Peterborough United
+    Data|92Club=Y
+Team|PlymouthArgyle|Plymouth Argyle
+    Data|92Club=Y
+Team|Portsmouth|Portsmouth
     Data|92Club=Y
     Data|City=Y
-Division|4|LeagueTwo
-Team|AccringtonStanley
-Team|Barnet
-Team|CambridgeUnited
+Team|Rochdale|Rochdale
+Team|RotherhamUnited|Rotherham United
+Team|ScunthorpeUnited|Scunthorpe United
+    Data|92Club=Y
+Team|ShrewsburyTown|Shrewsbury Town
+Team|SouthendUnited|Southend United
+    Data|92Club=Y
+Team|Walsall|Walsall
+Team|WiganAthletic|Wigan Athletic
+    Data|92Club=Y
+    Data|City=Y
+Division|4|LeagueTwo|League Two
+Team|AccringtonStanley|Accrington Stanley
+Team|Barnet|Barnet
+Team|CambridgeUnited|Cambridge United
     NonLeagueSinceAttended=Y
-Team|CarlisleUnited
-Team|CheltenhamTown
+Team|CarlisleUnited|Carlisle United
+Team|CheltenhamTown|Cheltenham Town
     NonLeagueSinceAttended=Y
-Team|Chesterfield
-Team|ColchesterUnited
+Team|Chesterfield|Chesterfield
+Team|ColchesterUnited|Colchester United
     Data|92Club=Y
-Team|CoventryCity
+Team|CoventryCity|Coventry City
     Data|92Club=Y
-Team|CrawleyTown
+Team|CrawleyTown|Crawley Town
     Data|92Club=Y
-Team|CreweAlexandra
+Team|CreweAlexandra|Crewe Alexandra
     Data|92Club=Y
-Team|ExeterCity
-Team|ForestGreenRovers
+Team|ExeterCity|Exeter City
+Team|ForestGreenRovers|Forest Green Rovers
     Data|92Club=Y
-Team|GrimsbyTown
-Team|LincolnCity
-Team|LutonTown
+Team|GrimsbyTown|Grimsby Town
+Team|LincolnCity|Lincoln City
+Team|LutonTown|Luton Town
     Data|92Club=Y
-Team|MansfieldTown
-Team|Morecambe
-Team|NewportCounty
-Team|NottsCounty
-Team|PortVale
-Team|Stevenage
+Team|MansfieldTown|Mansfield Town
+Team|Morecambe|Morecambe
+Team|NewportCounty|Newport County
+Team|NottsCounty|Notts County
+Team|PortVale|Port Vale
+Team|Stevenage|Stevenage
     Data|92Club=Y
-Team|SwindonTown
+Team|SwindonTown|Swindon Town
     Data|92Club=Y
-Team|WycombeWanderers
+Team|WycombeWanderers|Wycombe Wanderers
     Data|92Club=Y
-Team|YeovilTown
+Team|YeovilTown|Yeovil Town
     Data|92Club=Y
