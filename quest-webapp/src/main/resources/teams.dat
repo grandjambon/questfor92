@@ -214,25 +214,33 @@ Team|AccringtonStanley|Accrington Stanley
 Team|Barnet|Barnet
 Team|CambridgeUnited|Cambridge United
     Data|92Club=Y
+    Data|Visit|2002-08-10|Cambridge 1-2 Darlington
 Team|CarlisleUnited|Carlisle United
 Team|CheltenhamTown|Cheltenham Town
     Data|92Club=Y
+    Data|Visit|2013-08-06|Cheltenham 4-3 Crawley
 Team|Chesterfield|Chesterfield
 Team|ColchesterUnited|Colchester United
     Data|92Club=Y
+    Data|Visit|2017-11-04|Colchester 0-1 Oxford City
 Team|CoventryCity|Coventry City
     Data|92Club=Y
+    Data|Visit|2010-08-07|Coventry 2-0 Portsmouth
 Team|CrawleyTown|Crawley Town
     Data|92Club=Y
+    Data|Visit|2012-03-03|Crawley 0-1 Torquay
 Team|CreweAlexandra|Crewe Alexandra
     Data|92Club=Y
+    Data|Visit|2010-01-30|Crewe 1-2 Bournemouth
 Team|ExeterCity|Exeter City
 Team|ForestGreenRovers|Forest Green Rovers
     Data|92Club=Y
+    Data|Visit|2017-08-19|Forest Green 4-3 Yeovil
 Team|GrimsbyTown|Grimsby Town
 Team|LincolnCity|Lincoln City
 Team|LutonTown|Luton Town
     Data|92Club=Y
+    Data|Visit|2017-04-01|Luton 1-0 Blackpool
 Team|MansfieldTown|Mansfield Town
 Team|Morecambe|Morecambe
 Team|NewportCounty|Newport County
@@ -240,9 +248,13 @@ Team|NottsCounty|Notts County
 Team|PortVale|Port Vale
 Team|Stevenage|Stevenage
     Data|92Club=Y
+    Data|Visit|2010-09-18|Stevenage 0-0 Torquay
 Team|SwindonTown|Swindon Town
     Data|92Club=Y
+    Data|Visit|2016-09-27|Swindon 1-3 Northampton
 Team|WycombeWanderers|Wycombe Wanderers
     Data|92Club=Y
+    Data|Visit|2008-03-24|Wycombe 0-0 Stockport
 Team|YeovilTown|Yeovil Town
     Data|92Club=Y
+    Data|Visit|2009-09-26|Yeovil 2-0 Brentford
