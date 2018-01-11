@@ -6,11 +6,10 @@
         </head>
         <body bgcolor="#efefef">
             <div class="flex-container"/>
-                <header><p class="monospace">Quest For 92</a></header>
+                <header><p class="monospace">#questfor92</a></header>
                 <article class="article">
                     <#nested>
                 </article>
-
              </div>
         </body>
     </html>
