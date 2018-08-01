@@ -216,7 +216,6 @@ Division|4|LeagueTwo|League Two
 Team|AccringtonStanley|Accrington Stanley
     Data|92Club=Y
     Data|Visit|2018-02-03|Stanley 3-2 Stevenage
-Team|Barnet|Barnet
 Team|CambridgeUnited|Cambridge United
     Data|92Club=Y
     Data|Visit|2002-08-10|Cambridge 1-2 Darlington
@@ -224,7 +223,6 @@ Team|CarlisleUnited|Carlisle United
 Team|CheltenhamTown|Cheltenham Town
     Data|92Club=Y
     Data|Visit|2013-08-06|Cheltenham 4-3 Crawley
-Team|Chesterfield|Chesterfield
 Team|ColchesterUnited|Colchester United
     Data|92Club=Y
     Data|Visit|2017-11-04|Colchester 0-1 Oxford City
@@ -246,6 +244,7 @@ Team|LincolnCity|Lincoln City
 Team|LutonTown|Luton Town
     Data|92Club=Y
     Data|Visit|2017-04-01|Luton 1-0 Blackpool
+Team|Macclesfield|Macclesfield
 Team|MansfieldTown|Mansfield Town
 Team|Morecambe|Morecambe
 Team|NewportCounty|Newport County
@@ -257,6 +256,10 @@ Team|Stevenage|Stevenage
 Team|SwindonTown|Swindon Town
     Data|92Club=Y
     Data|Visit|2016-09-27|Swindon 1-3 Northampton
+Team|TranmereRovers|Tranmere Rovers
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|1997-03-18|Tranmere 1-1 Man City
 Team|WycombeWanderers|Wycombe Wanderers
     Data|92Club=Y
     Data|Visit|2008-03-24|Wycombe 0-0 Stockport
