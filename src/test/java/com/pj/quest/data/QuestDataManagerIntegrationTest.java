@@ -62,6 +62,6 @@ public class QuestDataManagerIntegrationTest {
     // throwaway test that should be converted to a unit test
     @Test
     public void testGet92ClubCount() {
-        assertEquals(61, questDataManager.getNinetyTwoClubTotal());
+        assertEquals(63, questDataManager.getNinetyTwoClubTotal());
     }
 }
