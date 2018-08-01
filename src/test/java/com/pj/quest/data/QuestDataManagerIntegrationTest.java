@@ -1,6 +1,7 @@
 package com.pj.quest.data;
 
 import com.pj.quest.data.model.Division;
+import com.pj.quest.data.model.Team;
 import com.pj.quest.springboot.controller.QuestConfiguration;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -62,6 +63,19 @@ public class QuestDataManagerIntegrationTest {
     // throwaway test that should be converted to a unit test
     @Test
     public void testGet92ClubCount() {
-        assertEquals(63, questDataManager.getNinetyTwoClubTotal());
+        assertEquals(65, questDataManager.getNinetyTwoClubTotal());
     }
+
+    @Test
+    public void testAllAttendedGroundsHaveGames() {
+        Collection<Division> divisions = questDataManager.getDivisions();
+        for (Division division : divisions) {
+            for (Team team : division.getTeams()) {
+                if (team.getVisited92Club()) {
+                    assertNotNull(team.getName() + " has not got a visit associated with it", team.getVisit());
+                }
+            }
+        }
+    }
+
 }

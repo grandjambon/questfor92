@@ -5,6 +5,7 @@ public class Team {
     private final String name;
     private boolean visited92Club = false;
     private boolean visitedWithCity = false;
+    private Visit visit;
 
     public Team(String name) {
         this.name = name;
@@ -28,5 +29,13 @@ public class Team {
 
     public boolean getVisitedWithCity() {
         return visitedWithCity;
+    }
+
+    public Visit getVisit() {
+        return visit;
+    }
+
+    public void setVisit(Visit visit) {
+        this.visit = visit;
     }
 }

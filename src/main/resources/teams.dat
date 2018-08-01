@@ -12,10 +12,13 @@ Team|Brighton|Brighton & Hove Albion
     Data|City=Y
     Data|Visit|2017-08-13|Brighton 0-2 Man City
 Team|Burnley|Burnley
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|2018-02-03|Burnley 1-1 Man City
 Team|Chelsea|Chelsea
     Data|92Club=Y
     Data|City=Y
-    Data|Visit|2002-01-30|Chelsea 2-0 Leeds
+    Data|Visit|2001-09-20|Chelsea 3-0 Levski Sofia
 Team|CrystalPalace|Crystal Palace
     Data|92Club=Y
     Data|City=Y
@@ -155,7 +158,7 @@ Team|Wolves|Wolverhampton Wanderers
 Division|3|LeagueOne|League One
 Team|AFCWimbledon|AFC Wimbledon
     Data|92Club=Y
-    Data|Visit|2016-04-16|AFC Wimbledon 1-0 Crawley
+    Data|Visit|2016-04-16|Wimbledon 1-0 Crawley
 Team|BlackburnRovers|Blackburn Rovers
     Data|92Club=Y
     Data|City=Y
@@ -211,6 +214,8 @@ Team|WiganAthletic|Wigan Athletic
     Data|Visit|2005-12-26|Wigan 4-3 Man City
 Division|4|LeagueTwo|League Two
 Team|AccringtonStanley|Accrington Stanley
+    Data|92Club=Y
+    Data|Visit|2018-02-03|Stanley 3-2 Stevenage
 Team|Barnet|Barnet
 Team|CambridgeUnited|Cambridge United
     Data|92Club=Y

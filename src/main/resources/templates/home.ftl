@@ -35,9 +35,19 @@
                 </tr>
             </table>
             <#list division.teams as team>
-                <table style="border: 1px solid black;" width = 75%>
+                <table style="border: 1px solid black;" width = 90%>
                     <tr>
-                        <td bgcolor=${background(team.visited92Club)} style="border: 1px solid black"><font color=${font(team.visited92Club)}>${team.name}</font></td>
+                        <#if team.visited92Club>
+                            <td bgcolor="white" style="border: 1px solid black" width=50%><font color="black">${team.name}</font></td>
+                            <td bgcolor="white" width=10% align="center"><font color="black">${team.visit.date}</font></td>
+                            <td bgcolor="white" width=17% align="right"><font color="black">${team.visit.homeTeam}</font></td>
+                            <td bgcolor="white" width=2% align="right"><font color="black">${team.visit.homeGoals}</font></td>
+                            <td bgcolor="white" width=2% align="center"><font color="black"> v </font></td>
+                            <td bgcolor="white" width=2% align="left"><font color="black">${team.visit.awayGoals}</font></td>
+                            <td bgcolor="white" width=17% align="left"><font color="black">${team.visit.awayTeam}</font></td>
+                        <#else>
+                            <td bgcolor="#474040" style="border: 1px solid black"><font color="white">${team.name}</font></td>
+                        </#if>
                     </tr>
                 </table>
             </#list>
