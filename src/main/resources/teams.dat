@@ -15,6 +15,7 @@ Team|Burnley|Burnley
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2018-02-03|Burnley 1-1 Man City
+Team|Cardiff|Cardiff City
 Team|Chelsea|Chelsea
     Data|92Club=Y
     Data|City=Y
@@ -27,6 +28,10 @@ Team|Everton|Everton
     Data|92Club=Y
     Data|City=Y
     Data|Visit|1993-08-17|Everton 1-0 Man City
+Team|Fulham|Fulham
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|2002-07-06|Fulham 0-0 FC Haka
 Team|Huddersfield|Huddersfield Town
 Team|Leicester|Leicester City
     Data|92Club=Y
@@ -52,14 +57,6 @@ Team|Southampton|Southampton
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2002-10-05|Southampton 2-0 Man City
-Team|Stoke|Stoke City
-    Data|92Club=Y
-    Data|City=Y
-    Data|Visit|1998-05-03|Stoke 2-5 Man City
-Team|Swansea|Swansea City
-    Data|92Club=Y
-    Data|City=Y
-    Data|Visit|2017-12-13|Swansea 0-4 Man City
 Team|Tottenham|Tottenham Hotspur
     Data|92Club=Y
     Data|City=Y
@@ -68,24 +65,27 @@ Team|Watford|Watford
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2002-01-20|Watford 1-2 Man City
-Team|WestBrom|West Bromwich Albion
-    Data|92Club=Y
-    Data|City=Y
-    Data|Visit|1999-12-26|West Brom 0-2 Man City
 Team|WestHam|West Ham United
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2016-08-04|West Ham 3-0 NK Domzale
+Team|Wolves|Wolverhampton Wanderers
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|1998-04-11|Wolves 2-2 Man City
 Division|2|Championship|Championship
 Team|AstonVilla|Aston Villa
     Data|92Club=Y
     Data|City=Y
     Data|Visit|1991-12-07|Aston Villa 3-1 Man City
-Team|Barnsley|Barnsley
 Team|Birmingham|Birmingham City
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2002-10-26|Birmingham 0-2 Man City
+Team|BlackburnRovers|Blackburn Rovers
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|1996-12-26|Blackburn 2-0 Man City
 Team|Bolton|Bolton Wanderers
     Data|92Club=Y
     Data|City=Y
@@ -97,15 +97,9 @@ Team|BristolCity|Bristol City
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2007-08-29|Bristol City 1-2 Man City
-Team|Burton|Burton Albion
-Team|Cardiff|Cardiff City
 Team|Derby|Derby County
     Data|92Club=Y
     Data|Visit|2016-08-06|Derby 0-0 Brighton
-Team|Fulham|Fulham
-    Data|92Club=Y
-    Data|City=Y
-    Data|Visit|2002-07-06|Fulham 0-0 FC Haka
 Team|Hull|Hull City
     Data|92Club=Y
     Data|City=Y
@@ -142,49 +136,57 @@ Team|Reading|Reading
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2003-08-16|Reading 3-0 Forest
+Team|RotherhamUnited|Rotherham United
 Team|SheffieldUnited|Sheffield United
     Data|92Club=Y
     Data|City=Y
     Data|Visit|1992-02-08|Sheff Utd 4-2 Man City
 Team|SheffieldWednesday|Sheffield Wednesday
-Team|Sunderland|Sunderland
+Team|Stoke|Stoke City
     Data|92Club=Y
     Data|City=Y
-    Data|Visit|2017-03-05|Sunderland 0-2 Man City
-Team|Wolves|Wolverhampton Wanderers
+    Data|Visit|1998-05-03|Stoke 2-5 Man City
+Team|Swansea|Swansea City
     Data|92Club=Y
     Data|City=Y
-    Data|Visit|1998-04-11|Wolves 2-2 Man City
+    Data|Visit|2017-12-13|Swansea 0-4 Man City
+Team|WestBrom|West Bromwich Albion
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|1999-12-26|West Brom 0-2 Man City
+Team|WiganAthletic|Wigan Athletic
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|2005-12-26|Wigan 4-3 Man City
 Division|3|LeagueOne|League One
+Team|AccringtonStanley|Accrington Stanley
+    Data|92Club=Y
+    Data|Visit|2018-02-03|Stanley 3-2 Stevenage
 Team|AFCWimbledon|AFC Wimbledon
     Data|92Club=Y
     Data|Visit|2016-04-16|Wimbledon 1-0 Crawley
-Team|BlackburnRovers|Blackburn Rovers
-    Data|92Club=Y
-    Data|City=Y
-    Data|Visit|1996-12-26|Blackburn 2-0 Man City
+Team|Barnsley|Barnsley
 Team|Blackpool|Blackpool
     Data|92Club=Y
     Data|Visit|2002-12-28|Blackpool 3-1 Colchester
 Team|BradfordCity|Bradford City
 Team|BristolRovers|Bristol Rovers
-Team|Bury|Bury
+Team|Burton|Burton Albion
 Team|CharltonAthletic|Charlton Athletic
     Data|92Club=Y
     Data|City=Y
     Data|Visit|2001-01-05|Charlton 2-1 Blackpool
+Team|CoventryCity|Coventry City
+    Data|92Club=Y
+    Data|Visit|2010-08-07|Coventry 2-0 Portsmouth
 Team|DoncasterRovers|Doncaster Rovers
 Team|FleetwoodTown|Fleetwood Town
 Team|Gillingham|Gillingham
     Data|92Club=Y
     Data|Visit|2003-03-04|Gillingham 1-4 Forest
-Team|MKDons|Milton Keynes Dons
+Team|LutonTown|Luton Town
     Data|92Club=Y
-    Data|Visit|2015-04-18|MK Dons 6-1 Leyton Orient
-Team|NorthamptonTown|Northampton Town
-    Data|92Club=Y
-    Data|Visit|2013-08-24|Northampton 1-2 Torquay
-Team|OldhamAthletic|Oldham Athletic
+    Data|Visit|2017-04-01|Luton 1-0 Blackpool
 Team|OxfordUnited|Oxford United
     Data|92Club=Y
     Data|Visit|2015-12-12|Oxford 1-1 Carlisle
@@ -199,7 +201,6 @@ Team|Portsmouth|Portsmouth
     Data|City=Y
     Data|Visit|2004-01-10|Portsmouth 4-2 Man City
 Team|Rochdale|Rochdale
-Team|RotherhamUnited|Rotherham United
 Team|ScunthorpeUnited|Scunthorpe United
     Data|92Club=Y
     Data|Visit|2010-01-24|Scunthorpe 2-4 Man City
@@ -207,15 +208,16 @@ Team|ShrewsburyTown|Shrewsbury Town
 Team|SouthendUnited|Southend United
     Data|92Club=Y
     Data|Visit|2004-05-08|Southend 1-2 Torquay
-Team|Walsall|Walsall
-Team|WiganAthletic|Wigan Athletic
+Team|Sunderland|Sunderland
     Data|92Club=Y
     Data|City=Y
-    Data|Visit|2005-12-26|Wigan 4-3 Man City
-Division|4|LeagueTwo|League Two
-Team|AccringtonStanley|Accrington Stanley
+    Data|Visit|2017-03-05|Sunderland 0-2 Man City
+Team|Walsall|Walsall
+Team|WycombeWanderers|Wycombe Wanderers
     Data|92Club=Y
-    Data|Visit|2018-02-03|Stanley 3-2 Stevenage
+    Data|Visit|2008-03-24|Wycombe 0-0 Stockport
+Division|4|LeagueTwo|League Two
+Team|Bury|Bury
 Team|CambridgeUnited|Cambridge United
     Data|92Club=Y
     Data|Visit|2002-08-10|Cambridge 1-2 Darlington
@@ -226,9 +228,6 @@ Team|CheltenhamTown|Cheltenham Town
 Team|ColchesterUnited|Colchester United
     Data|92Club=Y
     Data|Visit|2017-11-04|Colchester 0-1 Oxford City
-Team|CoventryCity|Coventry City
-    Data|92Club=Y
-    Data|Visit|2010-08-07|Coventry 2-0 Portsmouth
 Team|CrawleyTown|Crawley Town
     Data|92Club=Y
     Data|Visit|2012-03-03|Crawley 0-1 Torquay
@@ -241,14 +240,18 @@ Team|ForestGreenRovers|Forest Green Rovers
     Data|Visit|2017-08-19|Forest Green 4-3 Yeovil
 Team|GrimsbyTown|Grimsby Town
 Team|LincolnCity|Lincoln City
-Team|LutonTown|Luton Town
-    Data|92Club=Y
-    Data|Visit|2017-04-01|Luton 1-0 Blackpool
 Team|Macclesfield|Macclesfield
 Team|MansfieldTown|Mansfield Town
+Team|MKDons|Milton Keynes Dons
+    Data|92Club=Y
+    Data|Visit|2015-04-18|MK Dons 6-1 Leyton Orient
 Team|Morecambe|Morecambe
 Team|NewportCounty|Newport County
+Team|NorthamptonTown|Northampton Town
+    Data|92Club=Y
+    Data|Visit|2013-08-24|Northampton 1-2 Torquay
 Team|NottsCounty|Notts County
+Team|OldhamAthletic|Oldham Athletic
 Team|PortVale|Port Vale
 Team|Stevenage|Stevenage
     Data|92Club=Y
@@ -260,9 +263,6 @@ Team|TranmereRovers|Tranmere Rovers
     Data|92Club=Y
     Data|City=Y
     Data|Visit|1997-03-18|Tranmere 1-1 Man City
-Team|WycombeWanderers|Wycombe Wanderers
-    Data|92Club=Y
-    Data|Visit|2008-03-24|Wycombe 0-0 Stockport
 Team|YeovilTown|Yeovil Town
     Data|92Club=Y
     Data|Visit|2009-09-26|Yeovil 2-0 Brentford
