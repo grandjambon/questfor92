@@ -1,10 +1,14 @@
 package com.pj.quest.data.model;
 
+import org.pojomatic.Pojomatic;
+import org.pojomatic.annotations.AutoProperty;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
+@AutoProperty
 public class Visit {
-    private final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+    private final static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
     private final LocalDate date;
     private final String homeTeam;
@@ -24,6 +28,10 @@ public class Visit {
         return date.format(formatter);
     }
 
+    public LocalDate getDateAsDate() {
+        return date;
+    }
+
     public String getHomeTeam() {
         return homeTeam;
     }
@@ -38,5 +46,17 @@ public class Visit {
 
     public String getAwayTeam() {
         return awayTeam;
+    }
+
+    public int hashCode() {
+        return Pojomatic.hashCode(this);
+    }
+
+    public boolean equals(Object other) {
+        return Pojomatic.equals(this, other);
+    }
+
+    public String toString() {
+        return Pojomatic.toString(this);
     }
 }

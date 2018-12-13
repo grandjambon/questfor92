@@ -80,4 +80,10 @@ public class QuestDataManagerIntegrationTest {
         }
     }
 
+    @Test
+    public void testGet92ClubCountEqualsNumVisited() {
+        int ninetyTwoClubTotal = questDataManager.getNinetyTwoClubTotal();
+        Collection<Team> visits = questDataManager.getVisits();
+        assertEquals(ninetyTwoClubTotal, visits.size());
+    }
 }

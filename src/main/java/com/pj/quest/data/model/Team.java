@@ -1,5 +1,9 @@
 package com.pj.quest.data.model;
 
+import org.pojomatic.Pojomatic;
+import org.pojomatic.annotations.AutoProperty;
+
+@AutoProperty
 public class Team {
 
     private final String name;
@@ -37,5 +41,17 @@ public class Team {
 
     public void setVisit(Visit visit) {
         this.visit = visit;
+    }
+
+    public int hashCode() {
+        return Pojomatic.hashCode(this);
+    }
+
+    public boolean equals(Object other) {
+        return Pojomatic.equals(this, other);
+    }
+
+    public String toString() {
+        return Pojomatic.toString(this);
     }
 }

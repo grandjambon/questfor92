@@ -16,6 +16,7 @@ import java.util.Comparator;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 @SuppressWarnings("unused")
 public class QuestDataManager {
@@ -88,6 +89,15 @@ public class QuestDataManager {
         }
 
     }
+
+    public Collection<Team> getVisits() {
+        return divisions.stream().
+                flatMap(division -> division.getTeams().stream()).
+                filter(Team::getVisited92Club).
+                sorted((Comparator.comparing(team -> team.getVisit().getDateAsDate()))).
+                collect(Collectors.toList());
+    }
+
 
     public Collection<Division> getDivisions() {
         return divisions;
