@@ -15,9 +15,15 @@ public class QuestController {
 
     @RequestMapping("/")
     public String home(ModelMap model) {
-
         model.addAttribute("ninetyTwoClubTotal", dataManager.getNinetyTwoClubTotal());
         model.addAttribute("divisions", dataManager.getDivisions());
         return "home";
+    }
+
+    @RequestMapping("/visits")
+    public String visits(ModelMap model) {
+        model.addAttribute("ninetyTwoClubTotal", dataManager.getNinetyTwoClubTotal());
+        model.addAttribute("visits", dataManager.getVisits());
+        return "visits";
     }
 }
