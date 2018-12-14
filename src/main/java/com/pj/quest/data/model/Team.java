@@ -9,6 +9,9 @@ public class Team {
     private final String name;
     private boolean visited92Club = false;
     private boolean visitedWithCity = false;
+
+    private boolean isFormerGround = false;
+
     private Visit visit;
 
     public Team(String name) {
@@ -53,5 +56,13 @@ public class Team {
 
     public String toString() {
         return Pojomatic.toString(this);
+    }
+
+    public boolean getIsFormerGround() {
+        return isFormerGround;
+    }
+
+    public void setIsFormerGround(boolean formerGround) {
+        isFormerGround = formerGround;
     }
 }
