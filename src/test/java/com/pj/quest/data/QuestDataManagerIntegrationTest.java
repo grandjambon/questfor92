@@ -1,6 +1,7 @@
 package com.pj.quest.data;
 
 import com.pj.quest.data.model.Division;
+import com.pj.quest.data.model.Season;
 import com.pj.quest.data.model.Team;
 import com.pj.quest.springboot.controller.QuestConfiguration;
 import org.junit.Ignore;
@@ -85,5 +86,11 @@ public class QuestDataManagerIntegrationTest {
         int ninetyTwoClubTotal = questDataManager.getNinetyTwoClubTotal();
         Collection<Team> visits = questDataManager.getVisits();
         assertEquals(ninetyTwoClubTotal, visits.size());
+    }
+
+    @Test
+    public void getSeasons() {
+        Collection<Season> seasons = questDataManager.getSeasons();
+        assertNotNull(seasons);
     }
 }

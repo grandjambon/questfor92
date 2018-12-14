@@ -20,10 +20,10 @@ public class QuestController {
         return "home";
     }
 
-    @RequestMapping("/visits")
+    @RequestMapping("/seasons")
     public String visits(ModelMap model) {
         model.addAttribute("ninetyTwoClubTotal", dataManager.getNinetyTwoClubTotal());
-        model.addAttribute("visits", dataManager.getVisits());
-        return "visits";
+        model.addAttribute("seasons", dataManager.getSeasons());
+        return "seasons";
     }
 }
