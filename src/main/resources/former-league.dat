@@ -6,9 +6,10 @@ Team|HerefordUnited|Hereford United
     Data|Visit|2012-02-18|Hereford 1-2 Swindon
 Team|LeytonOrient|Leyton Orient
     Data|Visit|2001-03-20|Orient 1-0 Blackpool
-Team|Wrexham|Wrexham
-    Data|Visit|1998-12-26|Wrexham 0-1 Man City
 Team|StockportCounty|Stockport County
     Data|Visit|1989-10-02|Stockport 0-0 QPR
-Team|TorquayUnited|Torquay United
-    Data|Visit|2010-03-20|Torquay 2-3 Lincoln City
+Team|Wrexham|Wrexham
+    Data|Visit|1998-12-26|Wrexham 0-1 Man City
+Team|YeovilTown|Yeovil Town
+    Data|92Club=Y
+    Data|Visit|2009-09-26|Yeovil 2-0 Brentford
