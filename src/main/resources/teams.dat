@@ -191,6 +191,8 @@ Team|DoncasterRovers|Doncaster Rovers
     Data|92Club=Y
     Data|Visit|2018-12-15|Doncaster 2-0 Scunthorpe
 Team|FleetwoodTown|Fleetwood Town
+    Data|92Club=Y
+    Data|Visit|2020-01-04|Fleetwood 1-2 Portsmouth
 Team|Gillingham|Gillingham
     Data|92Club=Y
     Data|Visit|2003-03-04|Gillingham 1-4 Forest
@@ -215,6 +217,8 @@ Team|Portsmouth|Portsmouth
     Data|City=Y
     Data|Visit|2004-01-10|Portsmouth 4-2 Man City
 Team|Rochdale|Rochdale
+    Data|92Club=Y
+    Data|Visit|2020-01-04|Rochdale 1-1 Newcastle
 Team|RotherhamUnited|Rotherham United
 Team|ShrewsburyTown|Shrewsbury Town
 Team|SouthendUnited|Southend United
