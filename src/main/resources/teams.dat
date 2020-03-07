@@ -147,6 +147,9 @@ Team|Reading|Reading
     Data|City=Y
     Data|Visit|2003-08-16|Reading 3-0 Forest
 Team|SheffieldWednesday|Sheffield Wednesday
+    Data|92Club=Y
+    Data|City=Y
+    Data|Visit|2020-03-04|Wednesday 0-1 Man City
 Team|Stoke|Stoke City
     Data|92Club=Y
     Data|City=Y
@@ -179,6 +182,8 @@ Team|Bolton|Bolton Wanderers
     Data|Visit|2007-10-31|Bolton 0-1 Man City
 Team|BristolRovers|Bristol Rovers
 Team|Burton|Burton Albion
+    Data|92Club=Y
+    Data|Visit|2019-08-27|Burton 4-0 Morecambe
 Team|Bury|Bury
     Data|92Club=Y
     Data|Visit|2018-11-10|Bury 5-0 Dover
@@ -189,6 +194,8 @@ Team|DoncasterRovers|Doncaster Rovers
     Data|92Club=Y
     Data|Visit|2018-12-15|Doncaster 2-0 Scunthorpe
 Team|FleetwoodTown|Fleetwood Town
+    Data|92Club=Y
+    Data|Visit|2020-01-04|Fleetwood 1-2 Portsmouth
 Team|Gillingham|Gillingham
     Data|92Club=Y
     Data|Visit|2003-03-04|Gillingham 1-4 Forest
@@ -197,6 +204,8 @@ Team|Ipswich|Ipswich Town
     Data|City=Y
     Data|Visit|2002-01-27|Ipswich 1-4 Man City
 Team|LincolnCity|Lincoln City
+    Data|92Club=Y
+    Data|Visit|2019-08-13|Lincoln 2-0 Stanley
 Team|MKDons|Milton Keynes Dons
     Data|92Club=Y
     Data|Visit|2015-04-18|MK Dons 6-1 Leyton Orient
@@ -211,6 +220,8 @@ Team|Portsmouth|Portsmouth
     Data|City=Y
     Data|Visit|2004-01-10|Portsmouth 4-2 Man City
 Team|Rochdale|Rochdale
+    Data|92Club=Y
+    Data|Visit|2020-01-04|Rochdale 1-1 Newcastle
 Team|RotherhamUnited|Rotherham United
 Team|ShrewsburyTown|Shrewsbury Town
 Team|SouthendUnited|Southend United
@@ -256,11 +267,15 @@ Team|ForestGreenRovers|Forest Green Rovers
     Data|92Club=Y
     Data|Visit|2017-08-19|Forest Green 4-3 Yeovil
 Team|GrimsbyTown|Grimsby Town
+    Data|92Club=Y
+    Data|Visit|2019-10-05|Grimsby 0-1 Mansfield 
 Team|LeytonOrient|Leyton Orient
     Data|92Club=Y
     Data|Visit|2001-03-20|Orient 1-0 Blackpool
 Team|Macclesfield|Macclesfield
 Team|MansfieldTown|Mansfield Town
+    Data|92Club=Y
+    Data|Visit|2020-01-11|Mansfield 3-4 Forest Green
 Team|Morecambe|Morecambe
     Data|92Club=Y
     Data|Visit|2019-02-23|Morecambe 0-2 Lincoln
@@ -271,6 +286,8 @@ Team|NorthamptonTown|Northampton Town
     Data|92Club=Y
     Data|Visit|2013-08-24|Northampton 1-2 Torquay
 Team|OldhamAthletic|Oldham Athletic
+    Data|92Club=Y
+    Data|Visit|2019-12-29|Oldham 1-4 Salford
 Team|PortVale|Port Vale
 Team|PlymouthArgyle|Plymouth Argyle
     Data|92Club=Y
@@ -286,3 +303,5 @@ Team|SwindonTown|Swindon Town
     Data|92Club=Y
     Data|Visit|2016-09-27|Swindon 1-3 Northampton
 Team|Walsall|Walsall
+    Data|92Club=Y
+    Data|Visit|2019-09-14|Walsall 0-1 Bradford
