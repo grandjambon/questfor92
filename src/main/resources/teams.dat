@@ -9,7 +9,7 @@ Team|AstonVilla|Aston Villa
     Data|Visit|1991-12-07|Aston Villa 3-1 Man City
 Team|Brentford|Brentford
     Data|92Club=Y
-    Data|Visit|2002-11-02|Brentford 5-0 Blackpool
+    Data|Visit|2021-08-24|Brentford 3-1 Forest Green
 Team|Brighton|Brighton & Hove Albion
     Data|92Club=Y
     Data|City=Y
@@ -168,8 +168,6 @@ Team|AccringtonStanley|Accrington Stanley
     Data|92Club=Y
     Data|Visit|2018-02-03|Stanley 3-2 Stevenage
 Team|AFCWimbledon|AFC Wimbledon
-    Data|92Club=Y
-    Data|Visit|2016-04-16|Wimbledon 1-0 Crawley
 Team|Bolton|Bolton Wanderers
     Data|92Club=Y
     Data|City=Y
