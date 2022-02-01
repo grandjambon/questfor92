@@ -80,6 +80,8 @@ Team|Wolves|Wolverhampton Wanderers
     Data|Visit|1998-04-11|Wolves 2-2 Man City
 Division|2|Championship|Championship
 Team|Barnsley|Barnsley
+    Data|92Club=Y
+    Data|Visit|2022-01-29|Barnsley 0-1 Blackburn
 Team|Birmingham|Birmingham City
     Data|92Club=Y
     Data|City=Y
