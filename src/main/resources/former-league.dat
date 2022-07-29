@@ -4,8 +4,6 @@ Team|DagenhamAndRedbridge|Dagenham & Redbridge
     Data|Visit|2010-04-03|Dagenham 3-1 Accrington
 Team|HerefordUnited|Hereford United
     Data|Visit|2012-02-18|Hereford 1-2 Swindon
-Team|StockportCounty|Stockport County
-    Data|Visit|1989-10-02|Stockport 0-0 QPR
 Team|TorquayUnited|Torquay United
     Data|Visit|2010-03-20|Torquay 2-3 Lincoln City
 Team|Wrexham|Wrexham
@@ -16,6 +14,7 @@ Team|Bury|Bury
     Data|Visit|2018-11-10|Bury 5-0 Dover
 Team|SouthendUnited|Southend United
     Data|Visit|2004-05-08|Southend 1-2 Torquay
-Team|GrimsbyTown|Grimsby Town
-    Data|92Club=Y
-    Data|Visit|2019-10-05|Grimsby 0-1 Mansfield
+Team|OldhamAthletic|Oldham Athletic
+    Data|Visit|2019-12-29|Oldham 1-4 Salford
+Team|ScunthorpeUnited|Scunthorpe United
+    Data|Visit|2010-01-24|Scunthorpe 2-4 Man City
