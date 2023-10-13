@@ -6,8 +6,6 @@ Team|HerefordUnited|Hereford United
     Data|Visit|2012-02-18|Hereford 1-2 Swindon
 Team|TorquayUnited|Torquay United
     Data|Visit|2010-03-20|Torquay 2-3 Lincoln City
-Team|Wrexham|Wrexham
-    Data|Visit|1998-12-26|Wrexham 0-1 Man City
 Team|YeovilTown|Yeovil Town
     Data|Visit|2009-09-26|Yeovil 2-0 Brentford
 Team|Bury|Bury
@@ -18,3 +16,9 @@ Team|OldhamAthletic|Oldham Athletic
     Data|Visit|2019-12-29|Oldham 1-4 Salford
 Team|ScunthorpeUnited|Scunthorpe United
     Data|Visit|2010-01-24|Scunthorpe 2-4 Man City
+Team|Hartlepool United|Hartlepool United
+    Data|92Club=Y
+    Data|Visit|2023-01-21|Hartlepool 2-0 Rochdale
+Team|Rochdale|Rochdale
+    Data|92Club=Y
+    Data|Visit|2020-01-04|Rochdale 1-1 Newcastle
