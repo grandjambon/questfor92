@@ -6,12 +6,12 @@
         { "name": "Arsenal", "92Club": "Y", "City": "Y", "firstVisit": "2007-04-17", "match": "Arsenal 3-1 Man City" },
         { "name": "Aston Villa", "92Club": "Y", "City": "Y", "firstVisit": "1991-12-07", "match": "Aston Villa 3-1 Man City" },
         { "name": "Bournemouth", "92Club": "Y", "City": "Y", "firstVisit": "2017-02-13", "match": "Bournemouth 0-2 Man City" },
-        { "name": "Brentford", "92Club": "Y", "City": "N", "firstVisit": "2021-08-24", "match": "Brentford 3-1 Forest Green" },
+        { "name": "Brentford", "92Club": "Y", "City": "Y", "firstVisit": "2021-08-24", "match": "Brentford 3-1 Forest Green" },
         { "name": "Brighton & Hove Albion", "92Club": "Y", "City": "Y", "firstVisit": "2017-08-13", "match": "Brighton 0-2 Man City" },
         { "name": "Burnley", "92Club": "Y", "City": "Y", "firstVisit": "2018-02-03", "match": "Burnley 1-1 Man City" },
         { "name": "Chelsea", "92Club": "Y", "City": "Y", "firstVisit": "2001-09-20", "match": "Chelsea 3-0 Levski Sofia" },
         { "name": "Crystal Palace", "92Club": "Y", "City": "Y", "firstVisit": "2001-12-08", "match": "Crystal Palace 2-1 Man City" },
-        { "name": "Everton", "92Club": "Y", "City": "Y", "firstVisit": "1993-08-17", "match": "Everton 1-0 Man City" },
+        { "name": "Everton", "92Club": "Y", "City": "N", "firstVisit": "2025-08-27", "match": "Everton 2-0 Mansfield" },
         { "name": "Fulham", "92Club": "Y", "City": "Y", "firstVisit": "2002-07-06", "match": "Fulham 0-0 FC Haka" },
         { "name": "Liverpool", "92Club": "Y", "City": "Y", "firstVisit": "1982-10-16", "match": "Liverpool 0-0 Man United" },
         { "name": "Leeds United", "92Club": "Y", "City": "Y", "firstVisit": "1995-12-02", "match": "Leeds 0-1 Man City" },
@@ -51,7 +51,7 @@
         { "name": "Swansea City", "92Club": "Y", "City": "Y", "firstVisit": "2017-12-13", "match": "Swansea 0-4 Man City" },
         { "name": "Watford", "92Club": "Y", "City": "Y", "firstVisit": "2002-01-20", "match": "Watford 1-2 Man City" },
         { "name": "West Bromwich Albion", "92Club": "Y", "City": "Y", "firstVisit": "1999-12-26", "match": "West Brom 0-2 Man City" },
-        { "name": "Wrexham", "92Club": "Y", "City": "N", "firstVisit": "1998-12-26", "match": "Wrexham 0-1 Man City" }
+        { "name": "Wrexham", "92Club": "Y", "City": "Y", "firstVisit": "1998-12-26", "match": "Wrexham 0-1 Man City" }
       ]
     },
     {
@@ -70,7 +70,7 @@
         { "name": "Huddersfield Town", "92Club": "Y", "City": "Y", "firstVisit": "2019-01-20", "match": "Huddersfield 0-3 Man City" },
         { "name": "Leyton Orient", "92Club": "Y", "City": "N", "firstVisit": "2001-03-20", "match": "Orient 1-0 Blackpool" },
         { "name": "Lincoln City", "92Club": "Y", "City": "N", "firstVisit": "2019-08-13", "match": "Lincoln 2-0 Stanley" },
-        { "name": "Luton Town", "92Club": "Y", "City": "N", "firstVisit": "2017-04-01", "match": "Luton 1-0 Blackpool" },
+        { "name": "Luton Town", "92Club": "Y", "City": "Y", "firstVisit": "2017-04-01", "match": "Luton 1-0 Blackpool" },
         { "name": "Northampton Town", "92Club": "Y", "City": "N", "firstVisit": "2013-08-24", "match": "Northampton 1-2 Torquay" },
         { "name": "Oxford United", "92Club": "Y", "City": "N", "firstVisit": "2015-12-12", "match": "Oxford 1-1 Carlisle" },
         { "name": "Peterborough United", "92Club": "Y", "City": "N", "firstVisit": "2008-04-12", "match": "Peterborough 0-1 Stockport" },
