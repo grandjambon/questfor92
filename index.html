@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quest For 92</title>
+    <style>
+        body { font-family: sans-serif; background-color: #f0f0f0; }
+        .container { width: 80%; margin: auto; text-align: center; }
+
+        /* Main Header Stats */
+        .total-banner {
+            width: 75%; background: white; border: 1px solid black;
+            font-size: 60px; margin: 20px auto; padding: 10px;
+        }
+
+        /* Division Headers */
+        .div-table { width: 75%; margin-top: 30px; border-collapse: collapse; }
+        .div-header {
+            background: white; border: 1px solid black;
+            font-size: 40px; padding: 10px; width: 50%;
+        }
+
+        /* Team Rows */
+        .team-table { width: 85%; border-collapse: collapse; margin: 2px auto; }
+        .team-row { border: 1px solid black; }
+
+        /* Visited Styling (White background, black text) */
+        .visited { background-color: white; color: black; }
+
+        /* Not Visited Styling (Dark background, white text) */
+        .not-visited { background-color: #474040; color: white; }
+
+        .cell { padding: 8px; border: 1px solid #999; }
+        .name-cell { text-align: left; width: 40%; font-weight: bold; }
+        .date-cell { text-align: center; width: 15%; }
+        .score-cell { text-align: center; width: 45%; font-family: monospace; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div id="overall-stats" class="total-banner">92 Club: Loading...</div>
+    <div id="content"></div>
+</div>
+
+<script>
+    fetch('teams.json')
+        .then(res => res.json())
+        .then(data => {
+            const content = document.getElementById('content');
+            let grandTotal = 0;
+            let totalTeams = 0;
+
+            data.leagues.forEach(league => {
+                // Calculate stats for this division
+                const visitedInDiv = league.teams.filter(t => t["92Club"] === 'Y').length;
+                grandTotal += visitedInDiv;
+                totalTeams += league.teams.length;
+
+                // Create Division Header Table
+                let divHtml = `
+                    <table class="div-table" align="center">
+                        <tr>
+                            <td class="div-header">${league.division}</td>
+                            <td class="div-header">${visitedInDiv}/${league.teams.length}</td>
+                        </tr>
+                    </table><br>`;
+
+                // Create Team Tables
+                league.teams.forEach(team => {
+                    const isVisited = team["92Club"] === 'Y';
+                    const rowClass = isVisited ? 'visited' : 'not-visited';
+
+                    // Fix: Use team.firstVisit and team.match from your new JSON
+                    const dateDisplay = isVisited ? team.firstVisit : "";
+                    const matchDisplay = isVisited ? team.match : "---";
+
+                    divHtml += `
+                        <table class="team-table ${rowClass}" align="center">
+                            <tr>
+                                <td class="cell name-cell">${team.name}</td>
+                                <td class="cell date-cell">${dateDisplay}</td>
+                                <td class="cell score-cell">${matchDisplay}</td>
+                            </tr>
+                        </table>`;
+                });
+
+                content.innerHTML += divHtml + "<br>";
+            });
+
+            document.getElementById('overall-stats').innerText = `92 Club: ${grandTotal}/92`;
+        });
+</script>
+
+</body>
+</html>
